@@ -1,0 +1,127 @@
+#page {
+  background-image: linear-gradient(
+      115deg,
+      rgba(58, 58, 158, 0.8),
+      rgba(136, 136, 206, 0.7)
+    ),
+    url("https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg");
+  height: 1100px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  /*   margin-bottom:20px; */
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: normal;
+}
+p {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-weight: normal;
+}
+#bluebox {
+  display: block;
+  background: rgba(26, 26, 49, 0.8);
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 0.25rem;
+  box-sizing: border-box;
+}
+#name-label {
+  display: inline-block;
+  color: white;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+#name {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+}
+#email-label {
+  color: white;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+#email {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+}
+#number-label {
+  color: white;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+#number {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+}
+#dropdown-label {
+  color: white;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+#dropdown {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+}
+#radio {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+  font-style: normal;
+}
+#checkboxes {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+  font-style: normal;
+}
+#comments {
+  text-align: left;
+  color: white;
+  width: 90%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+  font-style: normal;
+}
+#submit {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 6px;
+  margin-bottom: 25px;
+  font-style: normal;
+}
